@@ -19,5 +19,5 @@ To run the container you can do the following:
 
 	psql -U postgres -h localhost -p 5432
 	
-*) If you on MacOS, then run 'boot2docker ip' to get ip adress instead of localhost
+OBS! If you on MacOS, then run 'boot2docker ip' to get ip adress instead of localhost.
 
