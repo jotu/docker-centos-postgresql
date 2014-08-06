@@ -18,4 +18,6 @@ To run the container you can do the following:
 	docker run -p 5432:5432 -d -t autenta/centos-postgresql
 
 	psql -U postgres -h localhost -p 5432
+	
+*) If you on MacOS, then run 'boot2docker ip' to get ip adress instead of localhost
 
