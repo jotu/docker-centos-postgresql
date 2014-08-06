@@ -11,7 +11,10 @@ Getting Started
 You can build this container from Github via
 
 	docker build -t autenta/centos-postgresql github.com/jotu/docker-centos-postgresql
+	
+Or	
 
+	docker pull autenta/centos-postgresql
 
 To run the container you can do the following:
 
